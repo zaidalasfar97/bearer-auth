@@ -1,12 +1,12 @@
 # bearer-auth
 
-# [heroku](https://zaid-alasfar-basic-auth.herokuapp.com/)
-# [PR](https://github.com/zaidalasfar97/basic-auth/pull/1)
-# [Action](https://github.com/zaidalasfar97/basic-auth/actions)
+# [heroku](https://zaid-bearer-auth.herokuapp.com/)
+# [PR](https://github.com/zaidalasfar97/bearer-auth/pull/1)
+# [Action](https://github.com/zaidalasfar97/bearer-auth/actions)
 
 # how to work with this repo:
 #### 1-npm init -y
-#### 2-npm i express dotenv cors morgan mongoose bcrypt base-64
-#### 3-npm i -D supertest jest @code-fellows
+#### npm i express dotenv cors morgan mongoose bcrypt base-64
+#### npm i -D jest @code-fellows/supergoos
 
 ![Solution](./img/basic.png)
